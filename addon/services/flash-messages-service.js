@@ -9,9 +9,10 @@ const {
   getWithDefault,
   merge,
   A: emberArray,
-  keys: objectKeys,
   on
 } = Ember;
+
+const objectKeys = Object.keys;
 
 const { classify } = Ember.String;
 const { map, forEach } = Ember.EnumerableUtils;
