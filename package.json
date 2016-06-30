@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-flash",
-  "version": "1.1.4",
+  "version": "1.1.4-photon-patch-1",
   "description": "Simple, highly configurable flash messages for ember-cli",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "https://github.com/poteto/ember-cli-flash",
+  "repository": "https://github.com/Photon79/ember-cli-flash",
   "engines": {
     "node": ">= 0.10.0"
   },
